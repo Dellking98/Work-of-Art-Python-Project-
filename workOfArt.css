@@ -1,0 +1,153 @@
+#wrap{
+border: 2x solid red;
+width: 970px;
+position: absolute;
+display: inline-block;
+overflow: visible;
+background-color: #000066;
+}
+
+#header{
+  /*border: 2px solid black;*/
+  /*height: 60%;*/
+  background-color: #000066;
+}
+
+#header img{
+  width: 300px;
+  /*display: inline-block;*/
+}
+
+#text_size img, #text_size div{
+  display: inline-block;
+  vertical-align: top;
+  }
+
+#text_size div{
+  margin-left:425px;
+}
+
+
+
+.text2{
+  color: white;
+}
+
+.normal1{
+  color: yellow;
+  text-decoration: underline;;
+}
+
+#tabBar{
+  list-style-type: none;
+  background-color: blue;
+  border-radius: 3px;
+  margin: 25px;
+  color: white;
+  font-size: 25px;
+  padding: 10px;
+    }
+#tabBar li{
+    display: inline;
+    padding: 10px;
+  }
+
+#guide{
+    text-decoration: underline;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    /*border: 2px solid black;*/
+    width: 200px;
+    height: 250px;
+    line-height: 30px;
+    margin-left: 30px;
+  }
+
+.guide2{
+    color: white;
+    padding: 15px;
+    line-height: 25px;
+  }
+
+
+.guide3{
+    color: yellow;
+    line-height: 25px;
+    font-size: 20px;
+    font-style:
+}
+
+#sidebar1{
+    /*border: 2px solid black;*/
+    width: 479px;
+    padding: 30px;
+    margin-left: 30px;
+  }
+
+  #sidebar ul, #sidebar div{
+    display: inline-block;
+    vertical-align: top;
+  }
+
+
+/*#contant{
+  border: 2px solid black;
+  height: 200px;
+}*/
+
+
+#article{
+  /*border: 2px solid black;*/
+  background-color: white;
+  width: 970px;
+  height: 300px; }
+
+#article li{
+  color: blue;
+}
+
+#gettingStarted{
+  /*border: 3px solid black;*/
+  width: 365px;
+}
+
+#app{
+  /*border: 2px solid black;*/
+  width: 365px;
+}
+
+#gettingStarted, #app{
+  display: inline-block;
+  vertical-align:top;
+  margin-left: 25px;
+  text-align: center;
+
+}
+
+#article h3{
+  text-align: center;
+}
+
+
+#footer{
+  border: 2px solid black;
+  height:200px;
+  width: 970px;
+  background-color: #0033cc;
+}
+#footer ul li{
+list-style-type: none;
+display: inline;
+padding: 25px;
+font-size: 20px;
+}
+
+#footer ul{
+margin-top: 125px;
+text-align: center;
+}
+
+#footer p{
+text-align: center;
+}
